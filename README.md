@@ -130,6 +130,10 @@ The script then creates the user account and places it inside the specified Orga
 <img width="1394" height="312" alt="image" src="https://github.com/user-attachments/assets/7e3fe418-7aac-4dff-8354-d23ce53f1bd2" />
 
 
+### Video Link
+https://youtu.be/vJ0NgFGD79w
+
+
 ## Skills Demonstrated
 
 * Active Directory Administration
